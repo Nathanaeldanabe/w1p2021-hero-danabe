@@ -4,7 +4,7 @@ URL du site : https://heroesproject.netlify.com/
 
 ### Groupe
 
-- Prénom & Nom
+- Nathanael DANABE
 - Prénom & Nom
 
 ## Prologue
