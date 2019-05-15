@@ -1,7 +1,7 @@
 @import 'reset';
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 
-$hetic-green: #0de595;
+$mycolor: #9240b5;
 
 body,
 button,
@@ -12,7 +12,7 @@ textarea {
 }
 
 .big-header {
-  background-color: $hetic-green;
+  background-color: $mycolor;
   height: 100vh;
 
   display: flex;
@@ -25,7 +25,7 @@ textarea {
 }
 
 .button {
-  color: $hetic-green;
+  color: $mycolor;
   text-decoration: none;
   background: white;
   padding: 5px;
